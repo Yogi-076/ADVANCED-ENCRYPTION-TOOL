@@ -1,15 +1,15 @@
 # ADVANCED-ENCRYPTION-TOOL
-# COMPANY: CODTECh IT SOLUTIONS
+ COMPANY: CODTECh IT SOLUTIONS
 
-# NAME: Yogi bhashkar atram
+ NAME: Yogi bhashkar atram
 
-# INTERN ID: CT08MFU
+ INTERN ID: CT08MFU
 
-# DOMAIN: Cyber Security & Ethical Hacking
+ DOMAIN: Cyber Security & Ethical Hacking
 
-# BATCH DURATION: January 15th, 2025 to February 15th, 2025
+ BATCH DURATION: January 15th, 2025 to February 15th, 2025
 
-# MENTOR NAME: Neela Santhosh Kumar
+ MENTOR NAME: Neela Santhosh Kumar
 
 
 # Overview
