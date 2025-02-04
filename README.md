@@ -17,6 +17,8 @@ Implements padding for proper AES block alignment.
 
 Generates secure random 256-bit keys.
 
+# Output :
+
 # Installation
 
 Ensure you have Python installed on your system. This script does not require additional dependencies beyond Python's standard library.
