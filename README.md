@@ -24,7 +24,6 @@ Generates secure random 256-bit keys.
 
 ![Image](https://github.com/user-attachments/assets/9d53e2ec-6ee0-41dc-91f4-3592d28910c6)
 
-![Image](https://github.com/user-attachments/assets/61e17513-bce3-47c1-9062-12fdef32c352)
 
 # Installation
 
