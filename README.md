@@ -18,6 +18,13 @@ Implements padding for proper AES block alignment.
 Generates secure random 256-bit keys.
 
 # Output :
+![Image](https://github.com/user-attachments/assets/7e4288b4-4b28-4175-80c8-3eced3ab7813)
+
+![Image](https://github.com/user-attachments/assets/279f7ed5-73fe-40ea-b167-d5779d824d58)
+
+![Image](https://github.com/user-attachments/assets/9d53e2ec-6ee0-41dc-91f4-3592d28910c6)
+
+![Image](https://github.com/user-attachments/assets/61e17513-bce3-47c1-9062-12fdef32c352)
 
 # Installation
 
